@@ -2,6 +2,8 @@
 
 - Database hosted in MondoDB Atlas Cloud, backend hosted in AWS EC2, frontend used HTML, jQuery and jQueryUI 
 
+- To run this project download the frontend folder and open the index.html.
+
 ### To Create DB 
 Use mongorestore to restore the dump using the file in the Volcano folder
 
